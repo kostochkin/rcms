@@ -1,0 +1,3 @@
+[submodule "Compiler/MAst/Base"]
+	path = Compiler/MAst/Base
+	url = https://github.com/kostochkin/rcms-compiler-mast-base
